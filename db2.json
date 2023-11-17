@@ -1,26 +1,28 @@
-[
+{
+  "videos": [
     {
-        "id": 1,
-        "titulo": "O labirinto do Logcat",
-        "capa": "https://caelum-online-public.s3.amazonaws.com/2802-react-praticando/img2.png",
-        "link": "https://www.youtube.com/embed/ypvGqZGJBls"
+      "id": 1,
+      "titulo": "Como utilizar el Display block, inline, inline-block",
+      "capa": "https://caelum-online-public.s3.amazonaws.com/ESP-2052+-++React%3A+practicando+React+con+Js/282x425+-+Jean.png",
+      "link": "https://www.youtube.com/embed/AG2QssLpQzI?si=6Yn355wcxAqU7_Ld"
     },
     {
-        "id": 2,
-        "titulo": "Um componente no espaço",
-        "capa": "https://caelum-online-public.s3.amazonaws.com/2802-react-praticando/img1.png",
-        "link": "https://www.youtube.com/embed/jK0uiQ1ZQQQ"
+      "id": 2,
+      "titulo": "Productividad en el trabajo remoto",
+      "capa": "https://caelum-online-public.s3.amazonaws.com/ESP-2052+-++React%3A+practicando+React+con+Js/282x425+-+Gabi.png",
+      "link": "https://www.youtube.com/embed/AULPtYo25Lw?si=UGdKX1NSrEcQ0jfn"
     },
     {
-        "id": 3,
-        "titulo": "O poderoso JavaScript",
-        "capa": "https://caelum-online-public.s3.amazonaws.com/2802-react-praticando/img4.png",
-        "link": "https://www.youtube.com/embed/N1BSG02z-Mw"
+      "id": 3,
+      "titulo": "¿Cuáles son las principales áreas de la programación?",
+      "capa": "https://caelum-online-public.s3.amazonaws.com/ESP-2052+-++React%3A+practicando+React+con+Js/282x425+-+Genesis.png",
+      "link": "https://www.youtube.com/embed/03cxUlwLVt4?si=zVCUQNO-eS2RZQTO"
     },
     {
-        "id": 4,
-        "titulo": "Dart, o Caçador de Andróides",
-        "capa": "https://caelum-online-public.s3.amazonaws.com/2802-react-praticando/img3.png",
-        "link": "https://www.youtube.com/embed/LLmBWjF6F8M"
+      "id": 4,
+      "titulo": "Detección de intruso con IA",
+      "capa": "https://caelum-online-public.s3.amazonaws.com/ESP-2052+-++React%3A+practicando+React+con+Js/282x425+-+Ale.png",
+      "link": "https://www.youtube.com/embed/5T_Q_NtNLZE?si=M7D0JeagaKqsoaFs"
     }
-]
+  ]
+}
